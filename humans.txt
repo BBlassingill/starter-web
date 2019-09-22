@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+  Brittany Blassingill brittany@email.com
 # THANKS
 
     <name>
