@@ -5,7 +5,7 @@
 
   Brittany Blassingill brittany@email.com
 # THANKS
-
+    Thanks to all my students!
     <name>
 
 # TECHNOLOGY COLOPHON
